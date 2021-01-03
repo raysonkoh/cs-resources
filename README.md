@@ -24,6 +24,7 @@
 
 ## Algorithms
 * [KMP String Matching](https://www.youtube.com/watch?v=4jY57Ehc14Y)
+* [O(nlogn) LIS](https://www.youtube.com/watch?v=1RpMc3fv0y4)
 ## Data Structures
 * [Fenwick trees](https://www.youtube.com/watch?v=kPaJfAUwViY&t=527s)
 * [Segment trees](https://www.youtube.com/watch?v=Tr-xEGoByFQ)
